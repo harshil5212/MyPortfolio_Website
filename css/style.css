@@ -158,8 +158,8 @@ header.shadow {
 .about-img img {
   width: 70%;
   border-radius: 0.5rem;
-  margin-left: -30px;
-  margin-top: -44px;
+  margin-left: -14px;
+  margin-top: -29px;
 }
 .about-text p {
   font-size: var(--p-font);
@@ -393,7 +393,7 @@ form textarea {
     padding: 18px 4%;
   }
   section {
-    padding: 50px 4%;
+    padding: 45px 4%;
   }
 }
 @media (max-width: 881px) {
